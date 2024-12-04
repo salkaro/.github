@@ -14,15 +14,3 @@ Salkaro is built on the idea that technology is a playground for creativity. Her
 - **Open-Source Resources**: Contributions welcome!  
 
 Whether you're just starting out or looking to deepen your knowledge, there's something here for everyone.  
-
----
-
-### 📊 GitHub Stats  
-
-![Salkaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=salkaro&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salkaro&layout=compact&theme=tokyonight)
-
-![Salkaro's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=salkaro&theme=tokyonight)
-
----
